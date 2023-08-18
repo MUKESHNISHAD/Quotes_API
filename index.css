@@ -1,0 +1,49 @@
+#BODY{
+    background-color: rgb(70, 100, 233);
+    /* background-image: url('Bg-Fetch-image-gif/Bg-image.gif'); */
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+#quotes{
+    background-color: rgb(232, 199, 199);
+    background-image: url('wallpaper/wall.gif');
+    font-style: italic;
+    align-items: center;
+    border-color: rgb(228, 8, 8);
+    margin-top: 140px;
+    margin-left: 520px;
+    height: 400px;
+    width: 450px;
+    border-width:20px ;
+    border-color: aqua;
+    font-size: x-large;
+    border-radius: 20px;
+    color: rgb(3, 10, 10);
+    text-align: center;
+    flex-wrap: wrap;
+    background-repeat:no-repeat;
+    background-size: cover;
+    box-shadow: 5px 5px rgb(183, 156, 156) ;
+    /* color: aqua; */
+    }
+#author{
+    text-align: center;
+    font-style: italic;
+    font-size: xx-large;
+    color: rgb(63, 184, 163);
+}
+#button{
+    align-self: center;
+    background-color: transparent;
+    margin-top: 20px;
+    margin-left: 600px;
+    border-radius: 20px;
+    border-width: 4px;
+    border-color: rgb(227, 154, 154);
+    height: 30px;
+    width: 290px;
+    color: aqua;
+    cursor: pointer;
+    
+}
+ 
